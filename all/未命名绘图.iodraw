@@ -28,7 +28,7 @@
           <mxGeometry x="-17" y="-575" width="214" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-9" value="进行意图识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="-532" width="118" height="80" as="geometry" />
+          <mxGeometry x="540" y="-399" width="118" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
