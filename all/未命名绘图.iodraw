@@ -36,6 +36,9 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-9" target="uP75H1AHszfjzE0V4jgv-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-9" target="uP75H1AHszfjzE0V4jgv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-9" value="1.进行意图识别&lt;br&gt;2.条件边判断" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="368" y="-383" width="118" height="80" as="geometry" />
         </mxCell>
@@ -54,8 +57,8 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-23" value="条件边判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="-383" width="118" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="-363" width="120" height="60" as="geometry" />
+        <mxCell id="uP75H1AHszfjzE0V4jgv-25" value="闲聊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="-229" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
