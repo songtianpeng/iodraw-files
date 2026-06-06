@@ -81,11 +81,14 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-32" value="授信审批流程&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;合规审查Agent&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;风控审批Agent&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="826" y="-373" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-35" target="uP75H1AHszfjzE0V4jgv-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-35" value="结论聚合Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="-373" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-349" width="120" height="60" as="geometry" />
+          <mxGeometry x="1211" y="-373" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
