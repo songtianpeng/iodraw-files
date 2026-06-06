@@ -42,6 +42,9 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-12" value="查询流程状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="-505" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-14" target="uP75H1AHszfjzE0V4jgv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-14" value="流程分发Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508" y="-373" width="120" height="60" as="geometry" />
         </mxCell>
