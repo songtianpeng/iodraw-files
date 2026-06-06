@@ -90,8 +90,8 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1211" y="-373" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-42" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1182" y="-626" width="120" height="80" as="geometry" />
+        <mxCell id="uP75H1AHszfjzE0V4jgv-42" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1182" y="-609" width="120" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
