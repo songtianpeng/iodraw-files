@@ -39,8 +39,11 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-9" value="1.进行意图识别&lt;br&gt;2.条件边判断" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="368" y="-383" width="118" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-12" target="uP75H1AHszfjzE0V4jgv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-12" value="查询流程状态" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="368" y="-566" width="120" height="60" as="geometry" />
+          <mxGeometry x="364" y="-601.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-14" target="uP75H1AHszfjzE0V4jgv-23">
           <mxGeometry relative="1" as="geometry" />
