@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-1" value="planner agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="-374.5" width="130" height="63" as="geometry" />
+          <mxGeometry x="228" y="-374.5" width="90" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-3" target="uP75H1AHszfjzE0V4jgv-1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,7 +40,7 @@
           <mxGeometry x="400" y="-542" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="601" y="-374.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="572" y="-373" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
