@@ -30,6 +30,9 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-9" target="uP75H1AHszfjzE0V4jgv-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-9" target="uP75H1AHszfjzE0V4jgv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-9" value="进行意图识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="-383" width="118" height="80" as="geometry" />
         </mxCell>
