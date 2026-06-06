@@ -7,9 +7,6 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-1" value="planner agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="-428" width="179" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-428" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
