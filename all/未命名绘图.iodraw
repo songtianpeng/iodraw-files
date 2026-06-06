@@ -63,7 +63,7 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-23" value="条件边判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="-383" width="118" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-27" value="主体评级流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uP75H1AHszfjzE0V4jgv-27" value="主体评级流程&lt;div&gt;评级人员1Agent&lt;br&gt;评级人员2Agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="-521" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-30" value="债券评级流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
