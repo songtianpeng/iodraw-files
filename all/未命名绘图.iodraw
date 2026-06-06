@@ -10,7 +10,7 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-3" target="uP75H1AHszfjzE0V4jgv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-5" value="输入想发起流程的需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uP75H1AHszfjzE0V4jgv-4">
+        <mxCell id="uP75H1AHszfjzE0V4jgv-5" value="输入需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uP75H1AHszfjzE0V4jgv-4">
           <mxGeometry x="-0.1633" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
