@@ -69,7 +69,7 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-30" value="债券评级流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="-204" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uP75H1AHszfjzE0V4jgv-32" value="授信审批流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="826" y="-373" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
