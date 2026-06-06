@@ -7,11 +7,6 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-1" target="uP75H1AHszfjzE0V4jgv-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="-458" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-1" value="planner agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="-369.25" width="90" height="52.5" as="geometry" />
         </mxCell>
@@ -46,6 +41,9 @@
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-14" value="发起流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="542" y="-373" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="-363" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
