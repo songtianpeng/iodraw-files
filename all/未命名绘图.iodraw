@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-7" value="1.用户输入框界面可以点击流程模板按钮展示当前用户可以发起的流程模板弹窗，这样实现了权限隔离，每个用户可以发起的流程是不同的&lt;div&gt;&lt;br&gt;2.用户可以在弹窗选择模板，然后填写必填字段，然后点击确认发送给Planner Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.也可以不选择流程模板，直接在输入框输入，识别其他意图&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-17" y="-631" width="214" height="176" as="geometry" />
+          <mxGeometry x="-17" y="-626" width="214" height="171" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-9" target="uP75H1AHszfjzE0V4jgv-12">
           <mxGeometry relative="1" as="geometry" />
