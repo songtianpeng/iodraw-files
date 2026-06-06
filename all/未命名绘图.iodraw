@@ -21,7 +21,7 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-7" target="uP75H1AHszfjzE0V4jgv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-7" value="1.用户界面可以展示当前用户可以发起的流程模板，这样实现了权限隔离，每个用户可以发起的流程不同&lt;br&gt;2." style="rounded=0;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+        <mxCell id="uP75H1AHszfjzE0V4jgv-7" value="1.用户输入框界面可以展示当前用户可以发起的流程模板，这样实现了权限隔离，每个用户可以发起的流程是不同的&lt;br&gt;2.用户可以点击流程模板填写必填字段然后发起对应的流程" style="rounded=0;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
           <mxGeometry x="-17" y="-575" width="214" height="120" as="geometry" />
         </mxCell>
       </root>
