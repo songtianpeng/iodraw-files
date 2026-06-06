@@ -71,6 +71,9 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-27" value="主体评级流程&lt;div&gt;评级人员1Agent&lt;br&gt;评级人员2Agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="-521" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-30" target="uP75H1AHszfjzE0V4jgv-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-30" value="债券评级流程&lt;div&gt;评级人员1Agent&lt;/div&gt;&lt;div&gt;评级人员2Agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="-204" width="120" height="60" as="geometry" />
         </mxCell>
