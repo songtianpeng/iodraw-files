@@ -79,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-32" value="授信审批流程&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;合规审查Agent&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;风控审批Agent&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="955" y="-373" width="193" height="60" as="geometry" />
+          <mxGeometry x="999" y="-373" width="193" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-35" target="uP75H1AHszfjzE0V4jgv-40">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +101,9 @@
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-47" value="创建异步任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="-204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.328;entryY=0.918;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-42" target="uP75H1AHszfjzE0V4jgv-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
