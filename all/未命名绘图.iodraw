@@ -40,7 +40,7 @@
           <mxGeometry x="368" y="-383" width="118" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-12" value="调用公共工具Agent" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-525" width="120" height="60" as="geometry" />
+          <mxGeometry x="264" y="-515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-14" target="uP75H1AHszfjzE0V4jgv-23">
           <mxGeometry relative="1" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry x="601" y="-634" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="601" y="-313" width="120" height="60" as="geometry" />
+          <mxGeometry x="461" y="-515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
