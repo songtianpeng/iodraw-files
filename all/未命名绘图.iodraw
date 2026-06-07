@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-47" value="创建异步任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="-204" width="120" height="60" as="geometry" />
+          <mxGeometry x="486" y="-204" width="83" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
