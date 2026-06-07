@@ -102,11 +102,8 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-47" value="创建异步任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="-204" width="83" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="524.5714285714289" y="-64.42840794154563" as="targetPoint" />
-            <mxPoint x="524.9999999999995" y="-52.00000000000023" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="uP75H1AHszfjzE0V4jgv-54" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="-323" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
