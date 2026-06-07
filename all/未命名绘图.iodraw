@@ -102,15 +102,6 @@
         <mxCell id="uP75H1AHszfjzE0V4jgv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-47" target="uP75H1AHszfjzE0V4jgv-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uP75H1AHszfjzE0V4jgv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uP75H1AHszfjzE0V4jgv-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="527.5" y="-362.3876974923269" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="528" y="-332" />
-              <mxPoint x="528" y="-332" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uP75H1AHszfjzE0V4jgv-47" value="创建异步任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="-204" width="83" height="60" as="geometry" />
         </mxCell>
